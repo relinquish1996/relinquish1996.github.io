@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_project"]=self["webpackChunkvue_project"]||[]).push([[176],{176:function(e,n,u){u.r(n),u.d(n,{default:function(){return l}});var t=function(){var e=this;e._self._c;return e._m(0)},r=[function(){var e=this,n=e._self._c;return n("div",[n("h1",[e._v("产品分类")])])}],c={name:"index"},s=c,f=u(1001),i=(0,f.Z)(s,t,r,!1,null,"8c2635a2",null),l=i.exports}}]);
+//# sourceMappingURL=176.91db9b24.js.map
